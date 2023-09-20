@@ -5,8 +5,8 @@ First Docker Container
 
 To run:
 
-docker build -t mycontainer ./
-docker run mycontainer
+docker build -t mycontainer ./  
+docker run mycontainer  
 
 # Docker Hub
 
